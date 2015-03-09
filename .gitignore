@@ -1,0 +1,7 @@
+/_build
+/deps
+erl_crash.dump
+*.ez
+.*.swp
+/mix.lock
+/test/fixtures/vagrant/.vagrant

@@ -1,0 +1,19 @@
+--- priv/orig/38ffd4972ae513a0c79a8be4573403edcd709f0f572105362b08ff50cf6de521	2015-03-09 19:34:20.173215958 +0100
++++ /tmp/index.html	2015-03-09 19:36:28.978499370 +0100
+@@ -11,15 +11,6 @@
+ </style>
+ </head>
+ <body>
+-<h1>Welcome to nginx!</h1>
+-<p>If you see this page, the nginx web server is successfully installed and
+-working. Further configuration is required.</p>
+-
+-<p>For online documentation and support please refer to
+-<a href="http://nginx.org/">nginx.org</a>.<br/>
+-Commercial support is available at
+-<a href="http://nginx.com/">nginx.com</a>.</p>
+-
+-<p><em>Thank you for using nginx.</em></p>
++<h1>Welcome to SymConfig-provisioned nginx!</h1>
+ </body>
+ </html>
